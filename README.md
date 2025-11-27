@@ -6,9 +6,7 @@ Backend (PostgreSQL + Prisma) integration is currently in progress.
 
 🚀 Features (Completed)
 - Responsive Navbar ✔️
-- Sidebar with: ✔️
-- Project list ✔️
-- Priority levels section ✔️
+- Sidebar ✔️
 - Clean UI built with Tailwind CSS ✔️
 - Optimized folder structure ✔️
 - Client-side routing setup ✔️
