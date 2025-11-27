@@ -103,6 +103,5 @@ Cloud & DevOps (AWS)
 📌 Status
 
 This project is actively under development.
-Core UI features like the navbar + sidebar are complete.
-Backend (PostgreSQL + Prisma) integration is being built module-by-module.
-
+- Core UI features like the navbar + sidebar are complete.
+- Backend (PostgreSQL + Prisma) integration is being built module-by-module.
