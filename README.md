@@ -40,28 +40,28 @@ Backend (PostgreSQL + Prisma) integration is currently in progress.
 🧰 Technology Stack 
 
 Frontend
-- • Next.js 14 (App Router) – Modern React framework with server components
-- • TypeScript – Strongly typed, scalable development
-- • Tailwind CSS – Utility-first, responsive UI styling
-- • Redux Toolkit + RTK Query – Predictable state management and optimized API caching
-- • Material UI Data Grid – High-performance table and data visualization components
+- Next.js 14 (App Router) – Modern React framework with server components
+- TypeScript – Strongly typed, scalable development
+- Tailwind CSS – Utility-first, responsive UI styling
+- Redux Toolkit + RTK Query – Predictable state management and optimized API caching
+- Material UI Data Grid – High-performance table and data visualization components
 
 
 Backend
-- • Node.js + Express – Scalable REST API backend
-- • Prisma ORM (PostgreSQL) – Type-safe database access and schema management
-- • PostgreSQL – Reliable relational database
-- • PgAdmin – GUI for database monitoring and management
+- Node.js + Express – Scalable REST API backend
+- Prisma ORM (PostgreSQL) – Type-safe database access and schema management
+- PostgreSQL – Reliable relational database
+- PgAdmin – GUI for database monitoring and management
 
 
 Cloud & DevOps (AWS)
-- • AWS EC2 – Backend hosting with secure VM environment
-- • AWS RDS (PostgreSQL) – Managed database with automated backups and scaling
-- • AWS S3 – Object storage for static assets & uploads
-- • AWS Amplify – Frontend deployment and CI/CD
-- • AWS API Gateway – Routing and managing backend API endpoints
-- • AWS Lambda – Serverless functions for event-driven features
-- • AWS Cognito – User authentication and secure identity management
+- AWS EC2 – Backend hosting with secure VM environment
+- AWS RDS (PostgreSQL) – Managed database with automated backups and scaling
+- AWS S3 – Object storage for static assets & uploads
+- AWS Amplify – Frontend deployment and CI/CD
+- AWS API Gateway – Routing and managing backend API endpoints
+- AWS Lambda – Serverless functions for event-driven features
+- AWS Cognito – User authentication and secure identity management
 
 
 ▶️ Getting Started
